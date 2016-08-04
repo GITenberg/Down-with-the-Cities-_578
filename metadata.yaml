@@ -1,0 +1,25 @@
+_repo: Down-with-the-Cities-_578
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nakashima, Tadashi
+    alias: 中島正
+    birthdate: 1920
+    gutenberg_agent_id: '298'
+    url: http://www.gutenberg.org/2009/agents/298
+description: ''
+gutenberg_issued: '1996-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '578'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'HT'
+- !lcsh 'Urban ecology (Sociology) -- Japan'
+- !lcsh 'Urban renewal -- Japan'
+- GITenberg
+title: Down with the Cities!
+url: http://www.gutenberg.org/ebooks/578
